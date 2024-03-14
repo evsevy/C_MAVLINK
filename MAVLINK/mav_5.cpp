@@ -1,3 +1,5 @@
+//*********************** © MEGKULOV E.V. 2024********************************************//
+
 #include <iostream>
 #include <stdio.h>
 #include <cstring>
