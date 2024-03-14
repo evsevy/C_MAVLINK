@@ -1,3 +1,5 @@
+//*********************** © MEGKULOV E.V. 2024********************************************//
+
 #include <mavlink.h>
 #include <opencv2/opencv.hpp>
 
